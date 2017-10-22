@@ -1,1 +1,0 @@
-# getenetlaloto.github.io
