@@ -2,11 +2,13 @@ body {
   display: flex;
   justify-content: center;
   align-content: center;
-  height: 100vh;
+  min-height: 100vh;
+  background-color: #abb0ba;
   align-items: center; }
 
 .box {
-  display: table; }
+  display: table;
+  padding-top: 20px; }
 
 .box2 {
   display: flex;
@@ -36,3 +38,6 @@ body {
   text-align: right;
   float: right;
   margin: 20px; }
+
+iframe {
+  width: 80%; }
