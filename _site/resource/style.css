@@ -1,0 +1,38 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+  align-items: center; }
+
+.box {
+  display: table; }
+
+.box2 {
+  display: flex;
+  justify-content: center;
+  width: 100%; }
+
+.prof {
+  margin: auto;
+  border-radius: 50px;
+  width: 90px;
+  height: 90px; }
+
+.text {
+  text-align: center; }
+
+.icons svg {
+  width: 30px;
+  margin: 10px; }
+  .icons svg:hover g {
+    fill: #56528e; }
+
+.about {
+  text-align: left;
+  float: left; }
+
+.Resume {
+  text-align: right;
+  float: right;
+  margin: 20px; }
