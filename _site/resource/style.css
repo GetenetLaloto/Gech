@@ -8,7 +8,8 @@ body {
 
 .box {
   display: table;
-  padding-top: 20px; }
+  padding-top: 20px;
+  width: 95%; }
 
 .box2 {
   display: flex;
@@ -40,4 +41,4 @@ body {
   margin: 20px; }
 
 iframe {
-  width: 95%; }
+  width: 98%; }
