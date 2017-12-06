@@ -42,3 +42,7 @@ body {
 
 iframe {
   width: 98%; }
+
+.center {
+  text-align: center;
+  padding-top: 50px; }
